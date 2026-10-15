@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=JAVIER+ARANA;SYSTEMS+ENGINEER;BACKEND+DEVELOPER;SUPPORT+%7C+CYBERSECURITY+%7C+SOFTWARE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=NEXUS;SYSTEMS+ENGINEER;BACKEND+DEVELOPER;SUPPORT+%7C+CYBERSECURITY+%7C+SOFTWARE" alt="Typing SVG" />
 
 <br>
 
@@ -17,7 +17,7 @@
 ```bash
 $ cat about_me.txt
 
-Name       : Javier Arana
+Name       : Nexus
 Role       : Systems Engineer | Developer
 Experience : L2 Technical Support
 Focus      : Backend, Databases, Cybersecurity
